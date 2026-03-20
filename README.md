@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sylvanerd
+- 👋 Hi, I’m Sylvan Shen
 - 👀 I’m interested in VR/AR developmemt, AI integration & development in Unity, interaction design and creative concepting 
 - 💞️ I’m looking to collaborate on exciting VR/AR projects that leverage both XR and AI technologies
 - 📫 drop me an email: sylvansheen42@gmail.com or smile@sylvanerd.io 
