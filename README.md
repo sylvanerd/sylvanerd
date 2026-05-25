@@ -13,7 +13,7 @@
   <tr>
     <td width="200" valign="top">
       <!-- YOUR PHOTO: replace the src with your image path or URL. -->
-      <img src="assets/profile.jpg" width="180" alt="Sylvan" />
+      <img src="profile.jpeg" width="180" alt="Sylvan" />
     </td>
     <td valign="top">
       <h1>Hi, I'm Sylvan 👋</h1>
