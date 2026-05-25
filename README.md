@@ -13,7 +13,7 @@
   <tr>
     <td width="200" valign="top">
       <!-- YOUR PHOTO: replace the src with your image path or URL. -->
-      <img src="assets/profile.jpg" width="180" alt="Sylvan" />
+      <img src="profile.jpg" width="180" alt="Sylvan" />
     </td>
     <td valign="top">
       <h1>Hi, I'm Sylvan 👋</h1>
@@ -23,16 +23,16 @@
         winning immersive studio in London, where I oversee VR and MR projects
         with partners including Meta and PwC. In my free time I build
         interactive demos and products for Meta Quest, Snap Spectacles, and
-        other smart glasses platforms. 4 time hackathon winner (MIT Reality
+        other smart glasses. 4 time hackathon winner (MIT Reality
         Hack, Niantic, SensAI Hack, and more).
       </p>
       <p>
         I work at the seam where humanistic thinking and imagination meet
-        technical realities, and storytelling is how I bridge the two. I build
+        technical realities. Storytelling is how I bridge the two. I build
         to learn, and I create to reflect. 🚀
       </p>
       <p>
-        🔭 Currently exploring: AI workflows, hardware sync, and cross-reality
+        🔭 Currently exploring: Smart Glasses, AI workflows, hardware sync, and cross-reality
         concepts.
       </p>
     </td>
