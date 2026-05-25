@@ -11,9 +11,9 @@
 
 <table border="0">
   <tr>
-    <td width="150" valign="top" align="center">
+    <td width="200" valign="top" align="center">
       <!-- YOUR PHOTO (portrait 4:5 looks right at this size). Replace the src. -->
-      <img src="profile.jpeg" width="130" alt="Sylvan" style="border-radius:10px;" />
+      <img src="profile.jpeg" width="180" alt="Sylvan" style="border-radius:10px;" />
     </td>
     <td valign="top">
       <h1>Hi, I'm Sylvan 👋</h1>
@@ -75,11 +75,11 @@
 <!-- Pin 4 to 6 repos on your profile, then point at the standouts here. -->
 - **[SmartSight](https://github.com/SmartSightStartup)**: Hands-free AI Study Coach Built for Meta Ray-Ban Smart Glasses
 - **[LumiaCombat](https://github.com/sylvanerd/LumiaCombat)**: A kinetic game of color and light built using Snap Spectacles and Philips Hue
-- **[Spectacles XRCC 2026](https://github.com/harrietPark/Spectacles_XRCC2026)**: A multi-platform spatial briefing system for showroom retail, built on Snap Spectacles, Snap Cloud, and a companion web portal.
+- **[PinPoint](https://github.com/harrietPark/Spectacles_XRCC2026)**: A multi-platform spatial briefing system for showroom retail, built on Snap Spectacles, Snap Cloud, and a companion web portal.
 
 ### ✍️ Writing
 
 Writing is another format of building. 
 
-- **Substack**: a humanistic critique of AI and XR, for people who suspect the tech conversation has gone thin on meaning. [read it](https://sylvanerd.substack.com/?utm_campaign=profile_chips)
-- **Immersive Wire**: quarterly analysis on XR trends in China. [columns](https://www.immersivewire.com/)
+- **Substack**: a humanistic critique of AI and XR, for people who suspect the tech conversation has gone thin on meaning. [Read it](https://sylvanerd.substack.com/?utm_campaign=profile_chips)
+- **Immersive Wire**: quarterly analysis on XR trends in China. [Subscribe](https://www.immersivewire.com/)
