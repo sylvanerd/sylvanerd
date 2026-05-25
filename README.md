@@ -11,7 +11,7 @@
 
 <table border="0">
   <tr>
-    <td width="200" valign="top" align="center">
+    <td width="240" valign="top" align="center">
       <!-- YOUR PHOTO (portrait 4:5 looks right at this size). Replace the src. -->
       <img src="profile.jpeg" width="180" alt="Sylvan" style="border-radius:10px;" />
     </td>
@@ -59,7 +59,6 @@
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
