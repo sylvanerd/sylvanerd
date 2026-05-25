@@ -13,7 +13,7 @@
   <tr>
     <td width="220" valign="top" align="center">
       <!-- YOUR PHOTO (portrait 4:5 looks right at this size). Replace the src. -->
-      <img src="profile.jpeg" width="160" alt="Sylvan" style="border-radius:10px;" />
+      <img src="profile.jpeg" width="160" alt="Sylvan" style="border-radius:2px;" />
     </td>
     <td valign="top">
       <h1>Hi, I'm Sylvan 👋</h1>
