@@ -11,9 +11,9 @@
 
 <table border="0">
   <tr>
-    <td width="200" valign="top">
-      <!-- YOUR PHOTO: replace the src with your image path or URL. -->
-      <img src="assets/profile.jpg" width="180" alt="Sylvan" />
+    <td width="240" valign="top" align="center">
+      <!-- YOUR PHOTO (portrait 4:5 looks right at this size). Replace the src. -->
+      <img src="profile.jpeg" width="180" alt="Sylvan" style="border-radius:10px;" />
     </td>
     <td valign="top">
       <h1>Hi, I'm Sylvan 👋</h1>
@@ -23,7 +23,7 @@
         winning immersive studio in London, where I oversee VR and MR projects
         with partners including Meta and PwC. In my free time I build
         interactive demos and products for Meta Quest, Snap Spectacles, and
-        other smart glasses platforms. 4 time hackathon winner (MIT Reality
+        other smart glasses. 4 time hackathon winner (MIT Reality
         Hack, Niantic, SensAI Hack, and more).
       </p>
       <p>
@@ -32,7 +32,7 @@
         to learn, and I create to reflect. 🚀
       </p>
       <p>
-        🔭 Currently exploring: AI workflows, hardware sync, and cross-reality
+        🔭 Currently exploring: Smart Glasses(Even Realities), AI workflows, hardware sync, and cross-reality
         concepts.
       </p>
     </td>
@@ -45,7 +45,6 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -53,19 +52,18 @@
 
 ![Unity 3D](https://img.shields.io/badge/Unity%203D-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Lens Studio](https://img.shields.io/badge/Lens%20Studio-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)
+![World Labs](https://img.shields.io/badge/World%20Labs-1A1A1A?style=for-the-badge)
 
 ### 🔧 Tools
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 <br>
-
-<!-- Replace YOURUSERNAME with your actual GitHub username. -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true)
 
 </div>
 
@@ -74,19 +72,13 @@
 ### 📌 Selected projects
 
 <!-- Pin 4 to 6 repos on your profile, then point at the standouts here. -->
-- **[project-name](#)**: one line on what it does and why it is interesting.
-- **[project-name](#)**: one line.
-- **[project-name](#)**: one line.
+- **[SmartSight](https://github.com/SmartSightStartup)**: Hands-free AI Study Coach Built for Meta Ray-Ban Smart Glasses
+- **[LumiaCombat](https://github.com/sylvanerd/LumiaCombat)**: A kinetic game of color and light built using Snap Spectacles and Philips Hue
+- **[PinPoint](https://github.com/harrietPark/Spectacles_XRCC2026)**: A multi-platform spatial briefing system for showroom retail, built on Snap Spectacles, Snap Cloud, and a companion web portal.
 
-### ✍️ Writing and talks
+### ✍️ Writing
 
-I don't just ship demos, I think about them in public.
+Writing is another format of building. 
 
-<!-- Add your real links, or remove any line you don't want here yet. -->
-- **Substack**: a humanistic critique of AI and XR, for people who suspect the tech conversation has gone thin on meaning. [read it](#)
-- **Immersive Wire**: quarterly analysis on XR trends in China. [columns](#)
-- **Talks**: AWE and other stages. [sessions](#)
-
-### Reach me
-
-[Website](https://sylvanerd.io) · [Substack](#) · [LinkedIn](#) <!-- add your handles, or remove -->
+- **Substack**: a humanistic critique of AI and XR, for people who suspect the tech conversation has gone thin on meaning. [Read it](https://sylvanerd.substack.com/?utm_campaign=profile_chips)
+- **Immersive Wire**: quarterly analysis on XR trends in China. [Subscribe](https://www.immersivewire.com/)
