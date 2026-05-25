@@ -11,7 +11,7 @@
 
 <table border="0">
   <tr>
-    <td width="240" valign="top" align="center">
+    <td width="220" valign="top" align="center">
       <!-- YOUR PHOTO (portrait 4:5 looks right at this size). Replace the src. -->
       <img src="profile.jpeg" width="180" alt="Sylvan" style="border-radius:10px;" />
     </td>
