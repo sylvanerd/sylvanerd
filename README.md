@@ -20,7 +20,7 @@
       <p>
         Creative technologist building AI-powered immersive (XR) experiences
         and products. By day, XR Technical Producer at No Ghost, an Emmy award
-        winning immersive studio in London, where I oversee VR and MR projects
+        winning immersive studio in London, where I oversee XR projects
         with partners including Meta and PwC. In my free time I build
         interactive demos and products for Meta Quest, Snap Spectacles, and
         other smart glasses. 4 time hackathon winner (MIT Reality
@@ -32,7 +32,7 @@
         to learn, and I create to reflect. 🚀
       </p>
       <p>
-        🔭 Currently exploring: Smart Glasses(Even Realities), AI workflows, hardware sync, and cross-reality
+        🔭 Currently exploring: Smart Glasses(Even Realities), AI workflows/products, hardware sync, and cross-reality
         concepts.
       </p>
     </td>
