@@ -80,5 +80,5 @@
 
 Writing is another format of building. 
 
-- **Substack**: a humanistic critique of AI and XR, for people who suspect the tech conversation has gone thin on meaning. [Read it](https://sylvanerd.substack.com/?utm_campaign=profile_chips)
+- **Substack**: a humanistic take on spatial intelligence, for people who suspect the tech conversation has gone thin on meaning. [Read it](https://sylvanerd.substack.com/?utm_campaign=profile_chips)
 - **Immersive Wire**: quarterly analysis on XR trends in China. [Subscribe](https://www.immersivewire.com/)
