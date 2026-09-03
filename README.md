@@ -24,7 +24,7 @@
         with partners including Meta and PwC. In my free time I build
         interactive demos and products for Meta Quest, Snap Spectacles, and
         other smart glasses. 6-time hackathon winner (MIT Reality
-        Hack, Niantic, SensAI Hack, XRCC, Snap Spectacles Community Challenge etc.).
+        Hack, Niantic, SensAI Hack, XRCC, Snap Spectacles Community Challenge.).
       </p>
       <p>
         I work at the seam where humanistic thinking and imagination meet
